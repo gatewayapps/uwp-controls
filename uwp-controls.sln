@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uwp-controls", "uwp-controls\uwp-controls.csproj", "{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Debug|ARM.ActiveCfg = Debug|ARM
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Debug|ARM.Build.0 = Debug|ARM
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Debug|x64.ActiveCfg = Debug|x64
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Debug|x64.Build.0 = Debug|x64
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Debug|x86.ActiveCfg = Debug|x86
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Debug|x86.Build.0 = Debug|x86
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Release|ARM.ActiveCfg = Release|ARM
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Release|ARM.Build.0 = Release|ARM
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Release|x64.ActiveCfg = Release|x64
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Release|x64.Build.0 = Release|x64
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Release|x86.ActiveCfg = Release|x86
+		{203806AC-EA4E-4621-A5E6-E32F83C8B0C1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEB4B3C6-B295-4CFB-B89D-AA48DE8BE86E}
+	EndGlobalSection
+EndGlobal
